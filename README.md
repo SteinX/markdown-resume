@@ -41,6 +41,7 @@ Highly recommend using Chromium-based browsers, e.g., [Chrome](https://www.googl
   - No user tracking, no ads
 - Dark mode
 
+
 ## Development
 
 It's built on [Nuxt 3](https://nuxt.com), with the power of [Vue 3](https://github.com/vuejs/vue-next), [Vite](https://github.com/vitejs/vite), [Zag](https://zagjs.com/), and [UnoCSS](https://github.com/antfu/unocss).
